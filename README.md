@@ -1,1 +1,1 @@
-# notSoGreatTipCalculator
+For this tip calculator, I was able to use HTML, CSS, and Javascript to create a tip calculator that tells you the amount that should be tipped based off of the amount of the meal, how great the service was, and how many people will be sharing the bill.
